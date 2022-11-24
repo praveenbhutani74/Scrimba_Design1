@@ -1,0 +1,36 @@
+main{
+    background-color: #282D35;
+    height: 85vh;
+    padding: 57px 27px;
+    background-image: url("../assets/Icon.png");
+    background-repeat: no-repeat;
+    background-position: right 75%;
+     
+}
+.main-title{
+color: #FFFFFF;
+margin: 0;
+
+font-size: 40px;
+font-weight: 600;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+padding: 10px;
+letter-spacing: -0.05em;
+}
+.main-ul{
+    color: #FFFFFF;
+        margin: 0;
+    
+        font-size: 20px;
+        font-weight: 600;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        padding: 30 10 10 40;
+
+}
+.main-ul>li{
+    padding-block: 10px;
+}
+.main-ul>li::marker{
+    font-size: 1.4rem;
+    color: #61DAFB;
+}

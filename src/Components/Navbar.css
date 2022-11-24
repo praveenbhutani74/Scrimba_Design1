@@ -1,0 +1,19 @@
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 2rem;
+    background-color: #21222A;
+}
+
+.Logo-Image{
+    width: 15rem;
+}
+.H3{
+   color: #DEEBF8;
+   font-weight: 600;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   font-size: 16px;
+   
+}
